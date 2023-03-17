@@ -10,5 +10,7 @@ This project provides a tool to convert Python scripts (.py) into Jupyter Notebo
 ## Installation
 
 1. Clone this repository:
-```git clone https://github.com/your-username/py_to_ipynb.git
-cd py_to_ipynb```
+```
+git clone https://github.com/your-username/py_to_ipynb.git
+cd py_to_ipynb
+```
